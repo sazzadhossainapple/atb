@@ -127,6 +127,17 @@ a {
 .title-text-color {
   color: var(--primary-color);
 }
+.banner-btn-wrpper {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.banner-icon {
+  max-width: 40px;
+}
+.banner-icon img {
+  max-width: 100%;
+  object-fit: cover;
+}
 /* banner css end */
 
 /* small device  */
